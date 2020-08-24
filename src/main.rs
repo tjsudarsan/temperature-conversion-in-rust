@@ -47,7 +47,7 @@ fn main() {
                 result = (degree - 32.0)/1.8000;
             }
 
-            println!("The result is {}", result);
+            println!("The converted result is {}", result);
             break;
         }
         break;
